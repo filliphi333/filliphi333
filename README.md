@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:FF006E,100:00D4FF&height=230&section=header&text=FILLIPHI SCHLICKMANN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI+Agent+Builder+%E2%80%A2+Founder+%E2%80%A2+Dark+Skills+Creator&descAlignY=62&descAlign=50&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:FF006E,100:00D4FF&height=230&section=header&text=FILLIPHI%20SCHLICKMANN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI+Agent+Builder+%E2%80%A2+Founder+%E2%80%A2+Dark+Skills+Creator&descAlignY=62&descAlign=50&descSize=22" />
 
 <div align="center">
 
