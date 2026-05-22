@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=filliphi333&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" />
 &nbsp;
+<a href="http://www.filliphi.com"><img src="https://img.shields.io/badge/PORTFOLIO-filliphi.com-FF006E?style=for-the-badge&labelColor=0D1117&logo=googlechrome&logoColor=FF006E" /></a>
+&nbsp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING-9D4EDD?style=for-the-badge&labelColor=0D1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/FOCUS-AI%20AGENTS-00D4FF?style=for-the-badge&labelColor=0D1117" />
@@ -28,6 +30,7 @@
 ║   CLASS      →  Founder · AI Builder · Full-Stack Developer         ║
 ║   DIRECTIVE  →  Turn ideas into deployed systems.                   ║
 ║   STACK      →  Next.js · Supabase · JavaScript · AI Agents         ║
+║   PORTFOLIO  →  www.filliphi.com                                    ║
 ║   LOCATION   →  [CLASSIFIED]                                        ║
 ║   STATUS     →  ████████████████ 100% — ACTIVE BUILD MODE           ║
 ║                                                                     ║
